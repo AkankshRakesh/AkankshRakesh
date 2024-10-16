@@ -1,6 +1,6 @@
 ## Hi there, I'm Akanksh Rakesh👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkankshRakesh&show_icons=true)](https://github.com/AkankshRakesh/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AkankshRakesh)](https://git.io/streak-stats)
 <!--
 **AkankshRakesh/AkankshRakesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
