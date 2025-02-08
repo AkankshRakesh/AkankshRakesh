@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🦑 About Me:
 I am an overzealous individual who always strives to be the best in everything that I do.<br>My passion is to improve myself everyday and be better than I was yesterday. 
 My projects can be visited by the going through my repositories or by going to my portfolio  : https://portfolio-akankshs-projects-296d3a31.vercel.app/
 
