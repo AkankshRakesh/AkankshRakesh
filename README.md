@@ -2,10 +2,6 @@
 I am an overzealous individual who always strives to be the best in everything that I do.<br>My passion is to improve myself everyday and be a better version of myself than I was yesterday. 
 My projects can be visited by the going through my repositories or by going to my portfolio  : https://portfolio-akankshs-projects-296d3a31.vercel.app/
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=AkankshRakesh&theme=dark&hide_border=false)<br/>
-<!-- [![GitHub Streak](https://stat11.vercel.app/?user=AkankshRakesh)](https://git.io/streak-stats) -->
-
 # 💻 Tech Stack:
 ### **Frontend Frameworks & Libraries**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -62,6 +58,11 @@ My projects can be visited by the going through my repositories or by going to m
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=AkankshRakesh&theme=dark&hide_border=false)<br/>
+<!-- [![GitHub Streak](https://stat11.vercel.app/?user=AkankshRakesh)](https://git.io/streak-stats) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AkankshRakesh&icon=0&color=0)](https://visitcount.itsvg.in)
