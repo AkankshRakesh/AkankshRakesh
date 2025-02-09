@@ -1,7 +1,7 @@
 # 🦑 About Me:
 I am an overzealous individual who always strives to be the best in everything that I do. My passion is to improve myself everyday and be better than I was yesterday. 
 ### **Here are some projects I built from scratch:** ###
-- <a href="https://syncflow-three.vercel.app/" target="a">Syncflow</a>: A project management app to sync content and progress amongst multiple teams.<br/>
+- [Syncflow](https://syncflow-three.vercel.app/): A project management app to sync content and progress amongst multiple teams.<br/>
 - <a href="https://kyr-frontend.vercel.app/">KnowYourRights</a>: A website to increase constitutional literacy among all age groups.<br/>
 - <a href="https://finanseer-ruddy.vercel.app/">FinanSeer</a>: A ML prediction model which predicts future revenue and the finances of an organization.<br/>
 - <a href="https://eventopia-olive.vercel.app/">Eventopia</a>: A web app which joins people who want to host an event and those who want to attend events.<br/>
