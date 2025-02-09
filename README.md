@@ -1,5 +1,5 @@
 # 🦑 About Me:
-I am an overzealous individual who always strives to be the best in everything that I do. My passion is to improve myself everyday and be better than I was yesterday. 
+I am an overzealous individual who consistently aims for excellence in all my endeavors. My dedication lies in self-improvement, as I seek to surpass my previous achievements each day. 
 ### **Here are some projects I built from scratch:** ###
 - [Syncflow](https://syncflow-three.vercel.app/): A project management app to sync content and progress amongst multiple teams.<br/>
 - <a href="https://kyr-frontend.vercel.app/">KnowYourRights</a>: A website to increase constitutional literacy among all age groups.<br/>
