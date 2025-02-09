@@ -70,6 +70,3 @@ I am an overzealous individual who always strives to be the best in everything t
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-
----
-[![](https://visitcount.itsvg.in/api?id=AkankshRakesh&icon=0&color=0)](https://visitcount.itsvg.in)
