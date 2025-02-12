@@ -11,6 +11,7 @@ I am an overzealous individual who consistently aims for excellence in all my en
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AkankshRakesh&theme=dark&hide_border=false)<br/>
+![](https://komarev.com/ghpvc/?username=AkankshRakesh&color=green)<br/>
 <!-- [![GitHub Streak](https://stat11.vercel.app/?user=AkankshRakesh)](https://git.io/streak-stats) -->
 
 
