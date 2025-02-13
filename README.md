@@ -15,7 +15,7 @@ I am an overzealous individual who consistently aims for excellence in all my en
 ![Akanksh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkankshRakesh&theme=dark&hide_border=false)
 ![Profile Views](https://komarev.com/ghpvc/?username=AkankshRakesh&color=green)
 
-## 💻 Tech Stack:
+## 💻 My expertise:
 
 ### **Frontend Frameworks & Libraries**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
