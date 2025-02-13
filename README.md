@@ -1,9 +1,9 @@
 # Hi there, welcome to my repository 🙋‍♂️
 
-### 🦑 About Me:
+## 🦑 About Me:
 I am an overzealous individual who consistently aims for excellence in all my endeavors. My dedication lies in self-improvement, as I seek to surpass my previous achievements each day.
 
-### 🧑‍💻 **Here are some projects I built from scratch:**
+## 🧑‍💻 **Here are some projects I built from scratch:**
 - [Syncflow](https://syncflow-three.vercel.app/): A project management app to sync content and progress amongst multiple teams.
 - [KnowYourRights](https://kyr-frontend.vercel.app/): A website to increase constitutional literacy among all age groups.
 - [FinanSeer](https://finanseer-ruddy.vercel.app/): A ML prediction model which predicts future revenue and the finances of an organization.
@@ -11,13 +11,13 @@ I am an overzealous individual who consistently aims for excellence in all my en
 - [AudioBridge](https://audiobridge.vercel.app/): A NLP based ML model which accurately detects and transcribes voice into different languages.
 - [Portfolio](https://portfolio-akankshs-projects-296d3a31.vercel.app/): Several other projects of mine can be visited through my personal portfolio.
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![Akanksh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkankshRakesh&theme=dark&hide_border=false)
 ![Profile Views](https://komarev.com/ghpvc/?username=AkankshRakesh&color=green)
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
-#### **Frontend Frameworks & Libraries**
+### **Frontend Frameworks & Libraries**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -25,7 +25,7 @@ I am an overzealous individual who consistently aims for excellence in all my en
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-#### **Backend Frameworks & Libraries**
+### **Backend Frameworks & Libraries**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -33,13 +33,13 @@ I am an overzealous individual who consistently aims for excellence in all my en
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### **Databases**
+### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-#### **Programming Languages**
+### **Programming Languages**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -54,17 +54,17 @@ I am an overzealous individual who consistently aims for excellence in all my en
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-#### **State Management & APIs**
+### **State Management & APIs**
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
-#### **UI Libraries & CSS Frameworks**
+### **UI Libraries & CSS Frameworks**
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 
-#### **Hosting & Deployment**
+### **Hosting & Deployment**
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -72,4 +72,4 @@ I am an overzealous individual who consistently aims for excellence in all my en
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
-### **Thank you for visiting my profile!**
+## **Thank you for visiting my profile!**
