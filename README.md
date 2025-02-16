@@ -14,7 +14,7 @@ I am an overzealous individual who consistently aims for excellence in all my en
 ## 📊 GitHub Stats:
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkankshRakesh&theme=tokyonight&hide_border=true" alt="Akanksh's Streakio">
+    <img src="https://github-readme-streak-stats-js6x9f0uo-akankshs-projects-296d3a31.vercel.app?user=AkankshRakesh&theme=tokyonight&hide_border=true" alt="Akanksh's Streakio">
   </p>
 </div>
 
