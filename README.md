@@ -76,5 +76,6 @@ I am an overzealous individual who consistently aims for excellence in all my en
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 <br/>
- Thank you for visiting my profile!
+
+ **Thank you for visiting my profile!**
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
