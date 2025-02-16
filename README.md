@@ -75,11 +75,11 @@ I am an overzealous individual who consistently aims for excellence in all my en
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/AkankshRakesh/Syncflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkankshRakesh&repo=Syncflow&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Syncflow" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkankshRakesh&repo=Syncflow&show_icons=false&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Syncflow" />
 </a>
 
 <a href="https://github.com/AkankshRakesh/AudioBridge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkankshRakesh&repo=AudioBridge&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkankshRakesh&repo=AudioBridge&show_icons=false&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 
 ## **Thank you for visiting my profile!**
