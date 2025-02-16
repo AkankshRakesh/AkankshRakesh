@@ -12,10 +12,13 @@ I am an overzealous individual who consistently aims for excellence in all my en
 - [Portfolio](https://portfolio-akankshs-projects-296d3a31.vercel.app/): Several other projects of mine can be visited through my personal portfolio.
 
 ## 📊 GitHub Stats:
-![Akanksh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkankshRakesh&theme=dark&hide_border=false)
-![Profile Views](https://komarev.com/ghpvc/?username=AkankshRakesh&color=green)
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkankshRakesh&theme=tokyonight&hide_border=true" alt="Akanksh's Streakio">
+  </p>
+</div>
 
-## 💻 My expertise:
+## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30">  My expertise:
 
 ### **Frontend Frameworks & Libraries**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -72,14 +75,6 @@ I am an overzealous individual who consistently aims for excellence in all my en
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/AkankshRakesh/Syncflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkankshRakesh&repo=Syncflow&show_icons=false&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Syncflow" />
-</a>
-
-<a href="https://github.com/AkankshRakesh/AudioBridge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkankshRakesh&repo=AudioBridge&show_icons=false&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
-
-## **Thank you for visiting my profile!**
+<br/>
+ Thank you for visiting my profile!
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
