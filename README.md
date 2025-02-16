@@ -1,24 +1,24 @@
 # Hi there, welcome to my repository <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0a0f24&height=200&section=header&text=Akanksh%20Rakesh&fontSize=50&fontColor=4db5ff)
+## <img src="https://private-user-images.githubusercontent.com/74038190/238201077-f7ba88c3-6090-48bc-919d-39c17944ea04.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk3MjA5NDUsIm5iZiI6MTczOTcyMDY0NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzctZjdiYTg4YzMtNjA5MC00OGJjLTkxOWQtMzljMTc5NDRlYTA0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE2VDE1NDQwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc3ZmYyZDI5ZmI0YzNiNTEwNTBmYjFmMjQ3OTdmNTljZDUyNWZjOTgxZTg4M2E1MzA1NjZjNGZhM2VkMTYwZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Z6h7rNaxdxycyKM7qbaX4zfCjU12j5qdK-yp7_t8sJ0" width="30"> About Me:
+I am an overzealous developer passionate about problem-solving and crafting innovative solutions. Constantly learning, evolving, and pushing boundaries.
 
-## 🦑 About Me:
-I am an overzealous individual who consistently aims for excellence in all my endeavors. My dedication lies in self-improvement, as I seek to surpass my previous achievements each day.
+## <img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk3MjA5NDUsIm5iZiI6MTczOTcyMDY0NSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE2VDE1NDQwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzMTU4MGFkNTA0ZDk2MzM4ZjBjNGIxY2JkNzNhNDkzOWYyMmM4Nzk0YWVlMDM2MTEzMWQwZGE2ZTI2YzQzODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3kzsR8Zf4AmZCQPDPZBbSVa0IqFdt5MFDZFZG_My6aA" width="30"> **Featured Projects**
+- [Syncflow](https://syncflow-three.vercel.app/) → A project management app for seamless team collaboration.  
+- [KnowYourRights](https://kyr-frontend.vercel.app/) → Enhancing constitutional literacy for all.  
+- [FinanSeer](https://finanseer-ruddy.vercel.app/) → ML-based financial predictions for organizations.  
+- [Eventopia](https://eventopia-olive.vercel.app/) → Bridging event organizers and attendees.  
+- [AudioBridge](https://audiobridge.vercel.app/) → NLP-based multilingual voice transcription.  
+- [Portfolio](https://portfolio-akankshs-projects-296d3a31.vercel.app/) → Showcasing my personal projects.  
 
-## 🧑‍💻 **Here are some projects I built from scratch:**
-- [Syncflow](https://syncflow-three.vercel.app/): A project management app to sync content and progress amongst multiple teams.
-- [KnowYourRights](https://kyr-frontend.vercel.app/): A website to increase constitutional literacy among all age groups.
-- [FinanSeer](https://finanseer-ruddy.vercel.app/): A ML prediction model which predicts future revenue and the finances of an organization.
-- [Eventopia](https://eventopia-olive.vercel.app/): A web app which joins people who want to host an event and those who want to attend events.
-- [AudioBridge](https://audiobridge.vercel.app/): A NLP based ML model which accurately detects and transcribes voice into different languages.
-- [Portfolio](https://portfolio-akankshs-projects-296d3a31.vercel.app/): Several other projects of mine can be visited through my personal portfolio.
-
-## 📊 GitHub Stats:
+## <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="30"> GitHub Stats:
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-streak-stats-git-main-akankshs-projects-296d3a31.vercel.app?user=AkankshRakesh&theme=tokyonight&hide_border=true" alt="Akanksh's Streak">
   </p>
 </div>
 
-## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30">  My expertise:
+## <img src='https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif' width="30">  My expertise:
 
 ### **Frontend Frameworks & Libraries**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -75,7 +75,9 @@ I am an overzealous individual who consistently aims for excellence in all my en
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
-<br/>
-
- **Thank you for visiting my profile!**
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ ### **Thank you for dropping by!**
+<div>
+  <p align="center">
+    <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="120">
+  </p>
+</div>
