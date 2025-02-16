@@ -1,4 +1,4 @@
-# Hi there, welcome to my repository 🙋‍♂️
+# Hi there, welcome to my repository <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 ## 🦑 About Me:
 I am an overzealous individual who consistently aims for excellence in all my endeavors. My dedication lies in self-improvement, as I seek to surpass my previous achievements each day.
