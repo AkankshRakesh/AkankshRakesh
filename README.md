@@ -72,4 +72,14 @@ I am an overzealous individual who consistently aims for excellence in all my en
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/AkankshRakesh/Syncflow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkankshRakesh&repo=Syncflow&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Syncflow" />
+</a>
+
+<a href="https://github.com/AkankshRakesh/AudioBridge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkankshRakesh&repo=AudioBridge&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+
 ## **Thank you for visiting my profile!**
