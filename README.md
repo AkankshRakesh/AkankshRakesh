@@ -1,5 +1,5 @@
 <div id="user-content-toc">
-  <ul style="list-style: none;">
+  <ul align="center" style="list-style: none;">
     <summary>
       <h1>Hi there, welcome to my repository <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
     </summary>
