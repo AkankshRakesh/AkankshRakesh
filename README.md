@@ -6,7 +6,11 @@
   </ul>
 </div>
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0a0f24&height=200&section=header&text=Akanksh%20Rakesh&fontSize=50&fontColor=4db5ff)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0a0f24&height=200&section=header&text=Akanksh%20Rakesh&fontSize=50&fontColor=4db5ff">
+</div>
+
+
 ## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250217T035044Z&X-Amz-Expires=300&X-Amz-Signature=09bd84a5acad4c3760458e413d5782105264fc95c4ab26ced6ff72b5fa06caca&X-Amz-SignedHeaders=host" width="30"> About Me:
 I am an overzealous developer passionate about problem-solving and crafting innovative solutions. Constantly learning, evolving, and pushing my own boundaries.
 
