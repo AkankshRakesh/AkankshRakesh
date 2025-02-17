@@ -1,4 +1,11 @@
-# Hi there, welcome to my repository <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h1>Hi there, welcome to my repository <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
+    </summary>
+  </ul>
+</div>
+
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=0a0f24&height=200&section=header&text=Akanksh%20Rakesh&fontSize=50&fontColor=4db5ff)
 ## <img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk3NjM3MzEsIm5iZiI6MTczOTc2MzQzMSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE3VDAzMzcxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzMzg3NTU1OWFhMzg2ZGExZjA4YjI4ODEwYzgyZWJmNDc1NGM2MmJlNTkwOGMyMzgyNDQ1NzAzYmFhMjJmZGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FszyVvAAhtC-yiF-S6TEfHCbuKO6L_kF1Sm_--WyCrQ" width="30"> About Me:
 I am an overzealous developer passionate about problem-solving and crafting innovative solutions. Constantly learning, evolving, and pushing my own boundaries.
