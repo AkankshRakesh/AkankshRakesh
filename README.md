@@ -11,10 +11,10 @@
 </div>
 
 
-## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250217T035044Z&X-Amz-Expires=300&X-Amz-Signature=09bd84a5acad4c3760458e413d5782105264fc95c4ab26ced6ff72b5fa06caca&X-Amz-SignedHeaders=host" width="30"> About Me:
+## <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="25"> About Me:
 I am an overzealous developer passionate about problem-solving and crafting innovative solutions. Constantly learning, evolving, and pushing my own boundaries.
 
-## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250217T035142Z&X-Amz-Expires=300&X-Amz-Signature=0572ff41ecabf3cf8963cc1d6ad3eb65911e8fbe70be44d7bd532462bc7ba63e&X-Amz-SignedHeaders=host" width="30"> **Featured Projects**
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25"> **Featured Projects**
 - [Syncflow](https://syncflow-three.vercel.app/) → A project management app for seamless team collaboration.  
 - [KnowYourRights](https://kyr-frontend.vercel.app/) → Enhancing constitutional literacy for all.  
 - [FinanSeer](https://finanseer-ruddy.vercel.app/) → ML-based financial predictions for organizations.  
