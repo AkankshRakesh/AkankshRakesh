@@ -1,11 +1,3 @@
-<div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h1>Hi there, welcome to my repository <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
-    </summary>
-  </ul>
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0a0f24&height=200&section=header&text=Akanksh%20Rakesh&fontSize=50&fontColor=4db5ff">
 </div>
