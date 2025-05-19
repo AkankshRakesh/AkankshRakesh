@@ -12,7 +12,7 @@ I am an overzealous developer passionate about problem-solving and crafting inno
 - [FinanSeer](https://finanseer-ruddy.vercel.app/) → ML-based financial predictions for organizations.  
 - [Eventopia](https://eventopia-olive.vercel.app/) → Bridging event organizers and attendees.  
 - [AudioBridge](https://audiobridge.vercel.app/) → NLP-based multilingual voice transcription.  
-- [Portfolio](https://portfolio-akankshs-projects-296d3a31.vercel.app/) → Showcasing my personal projects.  
+- [Portfolio](https://akanksh-rakesh.vercel.app/) → Showcasing my personal projects.  
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="30"> GitHub Stats:
 <div class="badges-githubstats">
