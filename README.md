@@ -3,10 +3,10 @@
 </div>
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="25"> About Me:
+## <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="25"> About Me
 I am an overzealous developer passionate about problem-solving and crafting innovative solutions. Constantly learning, evolving, and pushing my own boundaries.
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25"> **Featured Projects**
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="32" height="32"></picture> **Featured Projects**
 - [Syncflow](https://syncflow-three.vercel.app/) → A project management app for seamless team collaboration.  
 - [KnowYourRights](https://kyr-frontend.vercel.app/) → Enhancing constitutional literacy for all.  
 - [FinanSeer](https://finanseer-ruddy.vercel.app/) → ML-based financial predictions for organizations.  
@@ -14,14 +14,14 @@ I am an overzealous developer passionate about problem-solving and crafting inno
 - [AudioBridge](https://audiobridge.vercel.app/) → NLP-based multilingual voice transcription.  
 - [Portfolio](https://akanksh-rakesh.vercel.app/) → Showcasing my personal projects.  
 
-## <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="30"> GitHub Stats:
+## <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="30"> GitHub Stats
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-streak-stats-git-main-akankshs-projects-296d3a31.vercel.app?user=AkankshRakesh&theme=tokyonight&hide_border=true" alt="Akanksh's Streak">
   </p>
 </div>
 
-## <img src='https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif' width="30">  My expertise:
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="30" height="30"></picture>  My expertise
 
 ### **Frontend Frameworks & Libraries**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
