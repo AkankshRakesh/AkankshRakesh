@@ -16,8 +16,8 @@ I am an overzealous developer passionate about problem-solving and crafting inno
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="30"> GitHub Stats
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-stats-ten-delta.vercel.app/api?username=AkankshRakesh&theme=tokyonight&hide_border=true&hide_title=true&show_icons=true" alt="Akanksh's Stats" />
   <img src="https://github-readme-streak-stats-git-main-akankshs-projects-296d3a31.vercel.app?user=AkankshRakesh&theme=tokyonight&hide_border=true" alt="Akanksh's Streak" />
+  <img src="https://github-stats-ten-delta.vercel.app/api?username=AkankshRakesh&theme=tokyonight&hide_border=true&hide_title=true&show_icons=true" alt="Akanksh's Stats" />
 </div>
 
 
