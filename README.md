@@ -15,12 +15,11 @@ I am an overzealous developer passionate about problem-solving and crafting inno
 - [Portfolio](https://akanksh-rakesh.vercel.app/) → Showcasing my personal projects.  
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="30"> GitHub Stats
-<div class="badges-githubstats">
-  <p align="center">
-    <img align="center" src="https://github-stats-ten-delta.vercel.app/api?username=AkankshRakesh&theme=tokyonight&hide_border=true" alt="Akanksh's Stats">
-    <img align="center" src="https://github-readme-streak-stats-git-main-akankshs-projects-296d3a31.vercel.app?user=AkankshRakesh&theme=tokyonight&hide_border=true" alt="Akanksh's Streak">
-  </p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-stats-ten-delta.vercel.app/api?username=AkankshRakesh&theme=tokyonight&hide_border=true" alt="Akanksh's Stats" />
+  <img src="https://github-readme-streak-stats-git-main-akankshs-projects-296d3a31.vercel.app?user=AkankshRakesh&theme=tokyonight&hide_border=true" alt="Akanksh's Streak" />
 </div>
+
 
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="30" height="30"></picture>  My expertise
 
